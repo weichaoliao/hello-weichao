@@ -1,4 +1,4 @@
-# hello-weichao
+
 my first repository starting my journey with github
 
 hello everyone ,this my first date with github,and it's so amusing
